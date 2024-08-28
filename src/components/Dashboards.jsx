@@ -1,4 +1,5 @@
 import React from "react";
+import PokemonCards from "./PokemonCards";
 
 const Dashboards = ({ selectedPokemon, removePokemon }) => {
   return (
